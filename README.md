@@ -3,14 +3,15 @@
 <h3 align="center">FUNCTIONS</h3>
 
 
-- [X] PING SPIKE (release)
-- [ ] Keybinds PASTA.WIN (in progress)
-- [X] Trashtolk (release)
-- [ ] AA Builder (in progress)
-- [ ] Chat hit logs/console hits logs (in progress)
-- [ ] Сustom resolver (in progress)
-- [ ] OLD watermark (in progress)
-- [ ] Show weapon in scope (in progress)
-- [ ] Leg Fucker (in progress)
-- [ ] Ideal pick (in progress)
-- [ ] Fakelag history (in progress)
+- [X] PING SPIKE
+- [ ] Keybinds PASTA.WIN
+- [X] Trashtolk
+- [ ] AA Builder
+- [ ] Chat hit logs/console hits logs
+- [ ] Сustom resolver
+- [ ] OLD watermark
+- [ ] Show weapon in scope
+- [ ] Leg Fucker
+- [ ] Ideal pick
+- [ ] Fakelag history
+- [X] Clan tag
