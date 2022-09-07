@@ -1,4 +1,4 @@
-<h1 align="center">fatality lua <a href="https://daniilshat.ru/" target="_blank">PASTA.WIN</a> 
+<h1 align="center">fatality lua <a href="https://fatality.win/members/p0lack.14029/" target="_blank">PASTA.WIN</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">FUNCTIONS</h3>
 
