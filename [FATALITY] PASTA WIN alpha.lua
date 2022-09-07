@@ -1,4 +1,11 @@
+--.name PASTA.WIN lua alpha
+--.description Lua with custom AA, resolver and lots of features
+--.author P0LACK
+
+
 utils.print_dev_console("If you have problem dm me POLACK#4273")
+--local textbox = gui.add_textbox("PASTA.WIN", "LUA>TAB A")
+
 local IVEngineClient = utils.find_interface("engine.dll", "VEngineClient014") or error("Engine client is invalid")
 local IVEngineClientPtr = ffi.cast("void***", IVEngineClient)
 local IVEngineClientVtable = IVEngineClientPtr[0]
