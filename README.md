@@ -7,7 +7,7 @@
 - [ ] Keybinds PASTA.WIN
 - [X] Trashtolk
 - [ ] AA Builder
-- [ ] Chat hit logs/console hits logs
+- [X] Chat hit logs/console hits logs
 - [ ] Сustom resolver
 - [ ] OLD watermark
 - [ ] Show weapon in scope
