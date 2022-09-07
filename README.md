@@ -1,8 +1,8 @@
 # -fatality--PASTA.WIN--lua-
 
 # FUNCTIONS
---PING SPIKE (release)
---Keybinds PASTA.WIN (in progress)
+--PING SPIKE (release)/n
+--Keybinds PASTA.WIN (in progress)/n
 --Trashtolk (release)
 --AA Builder (in progress)
 --Chat hit logs/console hits logs (in progress)
